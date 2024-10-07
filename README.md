@@ -21,4 +21,4 @@ I'm eager to collaborate on projects or find roles where I can contribute to mea
 📧 **Reach me at**: jbabysreya@gmail.com
 
 🎨 **Creative Pursuits**: Infusing my world with art and craft.  
-✨ **Check out my art pages on Instagram**: inksanekaft | sreya_artvibe
+✨ **Check out my art pages on Instagram**: @inksanekraft | @sreya_artvibe
