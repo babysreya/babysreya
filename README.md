@@ -17,3 +17,5 @@ Whether it’s coding efficient algorithms, building insightful dashboards, or o
 🌱 Looking for opportunities:
 
 I'm eager to collaborate on projects or find roles where I can contribute to meaningful work and sharpen my skills further. Let's connect!
+
+📧 Reach me at: jbabysreya@gmail.com
