@@ -1,24 +1,41 @@
-## Hi there 👋
+# Hi there 👋, I'm Baby Sreya Jakkula
 
-👋 Hello! I'm Baby Sreya Jakkula
-🎓 Graduated in 2024 with a Bachelor's degree in Internet of Things and a passion for tech and problem-solving. I'm currently seeking exciting job opportunities where I can apply my skills and continue to grow.
+🚀 Generative AI & Machine Learning Engineer passionate about building intelligent applications using LLMs, Python, and modern AI frameworks.
 
-💡 **What I bring to the table**:
+## 💻 Tech Stack
 
- - Languages: Python, Java
- - Tools: PowerBI, Excel, SQL
- - Experience:Completed an internship at Streamforce Solutions, gained hands-on experience in Salesforce CRM and Python development, working on innovative solutions.
+* **Languages:** Python, SQL
+* **AI/ML:** Machine Learning, Generative AI, LangChain, LLMs, NLP
+* **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Hugging Face, Streamlit
+* **Data & BI:** Power BI, Excel
+* **Version Control:** Git, GitHub
 
-🚀 **What drives me**:
+## 👩‍💼 Experience
 
-Enthusiastic about leveraging data and technology to create impactful solutions.
-Whether it’s coding efficient algorithms, building insightful dashboards, or optimizing workflows, I'm always ready for a challenge.
+* **System Engineer @ Tata Consultancy Services (TCS)**
 
-🌱 Looking for opportunities:
+  * Working on Generative AI Proof of Concepts using LLMs, LangChain, APIs, and Prompt Engineering.
+* **Summer Intern @ StreamForce Solutions**
 
-I'm eager to collaborate on projects or find roles where I can contribute to meaningful work and sharpen my skills further. Let's connect!
+  * Developed AI-powered automation solutions and Python-based applications.
 
-📧 **Reach me at**: jbabysreya@gmail.com
+## 🚀 Featured Projects
 
-🎨 **Creative Pursuits**: Infusing my world with art and craft.  
-✨ **Check out my art pages on Instagram**: @inksanekraft | @sreya_artvibe
+* 🤖 LLM-Based Test Case Generation System
+* 🤖 Automated Code Coverage using LLMs
+* 🎓 International Education Cost Prediction
+* 🎬 Movie Recommendation System
+
+## 🌱 Currently Learning
+
+* Retrieval-Augmented Generation (RAG)
+* AI Agents & Multi-Agent Systems
+* LLMOps & Production AI Systems
+
+## 📫 Connect With Me
+
+* LinkedIn: linkedin.com/in/your-linkedin
+* GitHub: github.com/your-github
+* Email: [jbabysreya@gmail.com](mailto:jbabysreya@gmail.com)
+
+⚡ Always excited to collaborate on AI, Machine Learning, and Generative AI projects.
